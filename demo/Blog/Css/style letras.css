@@ -1,0 +1,73 @@
+h1 {
+    color:white;
+    font-family: 'Indie Flower', cursive;
+    font-size:250%;
+    text-align:center;
+}
+h2 {
+    color:white;
+    font-family: 'Indie Flower', cursive;
+    font-size:300%;
+    text-align:center;
+}
+p  {
+    color:white;
+    font-family: 'Indie Flower', cursive;
+    font-size:160%;
+    text-align:center;
+}
+.pMen {
+    color:white;
+    font-family: 'Indie Flower', cursive;
+    font-size:150%;
+    text-align:center;
+}
+h3{
+    color:white;
+    font-family: 'Indie Flower', cursive;
+    font-size:200%;
+    text-align:center;
+}
+/*p::first-letter {
+color: red;
+font-size: xx-large;
+}*/
+a:link{
+    color:white;
+    text-decoration: none;
+}
+a:visited{
+    color:white;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+}
+.lC{
+    color:white;
+    font-family: 'Indie Flower', cursive;
+    font-size:130%;
+}
+.iC{
+    border-radius: 10%;
+    color:white;
+    font-family: 'Indie Flower', cursive;
+    font-size:130%;
+    background-color: black;
+    margin-bottom: 2%;
+}
+.bC{
+    border-radius: 20%;
+    color:white;
+    font-family: 'Indie Flower', cursive;
+    font-size:130%;
+    background-color: black;
+}
+.bC:active{
+    background-color: white;
+    color:black;
+}
+.bC:hover{
+    
+}
+
