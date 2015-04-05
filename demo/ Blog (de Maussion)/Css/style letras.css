@@ -1,0 +1,74 @@
+h1 {
+    color:#2d2700;
+    font-family: 'Indie Flower', cursive;
+    font-size:250%;
+    text-align:center;
+}
+h2 {
+    color:#2d2700;
+    font-family: 'Indie Flower', cursive;
+    font-size:300%;
+    text-align:center;
+}
+p  {
+    color:#615400;
+    font-family: 'Indie Flower', cursive;
+    font-size:160%;
+    text-align:center;
+}
+.pMen {
+    color:#615400;
+    font-family: 'Indie Flower', cursive;
+    font-size:150%;
+    text-align:center;
+}
+h3{
+    color:#2d2700;
+    font-family: 'Indie Flower', cursive;
+    font-size:200%;
+    text-align:center;
+}
+/*p::first-letter {
+color: red;
+font-size: xx-large;
+}*/
+a:link{
+    color:#615400;
+    text-decoration: none;
+}
+a:visited{
+    color:#615400;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+    cursor:crosshair;
+}
+.lC{
+    color:#615400;
+    font-family: 'Indie Flower', cursive;
+    font-size:130%;
+}
+.iC{
+    border-radius: 10%;
+    color:#615400;
+    font-family: 'Indie Flower', cursive;
+    font-size:130%;
+    background-color:#E1C4B3;
+    margin-bottom: 2%;
+}
+.bC{
+    border-radius: 20%;
+    color:#615400;
+    font-family: 'Indie Flower', cursive;
+    font-size:130%;
+    background-color: #fff8c9;
+}
+.bC:active{
+    background-color: #fff8c9;
+    color:black;
+}
+.bC:hover{
+    
+}
+
